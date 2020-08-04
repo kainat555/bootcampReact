@@ -8,6 +8,7 @@ function App() {
       <p>
       Is it working?
       </p>
+      <h2>Thanks from Kainat</h2>
     </div>
   );
 }
