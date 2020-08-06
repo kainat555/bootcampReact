@@ -4,7 +4,6 @@ import Info from './info.js';
 import Options from "./options.js";
 import Tech from "./tech.js";
 import Test from "./test.js";
-import Demo from "./demo.js";
 
 
 
