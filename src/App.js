@@ -37,7 +37,6 @@ function App() {
       <Test option="Yes"/> 
       <Test option="No"/>
       
-      <h3>Hello</h3>
     </div>
 
   );
