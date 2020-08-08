@@ -1,13 +1,36 @@
-.App{
+/* .App{
   text-align: center;
-}
+} */
+
 
 .main{
   background-color: yellow;
   color: red;
 }
 
-.App-logo {
+.change{
+  background-color: yellow;
+}
+
+.dayLight{
+  background-color: turquoise;
+  color: red;
+  text-align: center;
+  /* width: 500px; */
+  height: 400px;
+  font-size: larger;
+}
+
+.nightLight{
+  background-color: red;
+  color: turquoise;
+  text-align: center;
+  /* width: 500px; */
+  height: 400px;
+  font-size: larger;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -40,4 +63,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
